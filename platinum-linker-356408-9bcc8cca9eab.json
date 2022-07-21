@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platinum-linker-356408",
+  "private_key_id": "9bcc8cca9eab7ece6034d5125e33527a523cc57f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6iV7WtCl3X2s5\n219azXwOn3uYJktn998fceM15YGoxQ+5w5KFq8ArAj2WOIdmKV9A02ENNGjphcQA\nZ1h1gSAC6HYuBF+Do96AKt/+KIw3dw42ZVCYW6Ec9z0NhmAd89nQJLbCx2rJKjQS\nQVdCbwt0L+PjZ1+Og3+mgAWojTVDzLdo3nrN1/NNSICSEiPTcDMsZyHLSGEMNM/l\nhgaafrF4DFAdKE3vGL5PKQpiucYM89+kyiVwPCGM8thtoWfh8ntnvR9io/RECu30\n1UbB6crAPYoSyre9moY9KaUkaw85qZJrSnl6jSx1M/uGo6YVF69p+2l1dyhxs3MU\nuxwU4RadAgMBAAECggEAAYAove9uqDAvxIe4QlOF+Pey0IGII1Hem09gA8dQ/guV\nIOo5FMGK2Mad8xuJFt6H4/kPWrPzkQAH7fXKbn+QbgdWRdPUu/zt09uvG57gjXMC\nS+2B1l1FdDOk+fr9GBJer24W2PdnR/ZX9DqH5Nfsg/+LhMhBVVFj8WO8RFy/Vtac\nc7xmxwytcgMfwSmQrrFlqfpbiaRRjfFd25dwFa9c5St7u1WVhJ0UZ8vX3GAvY/4m\n42eAYCJzSS5pZT6b0tr+/A7O1eNrRK/B4v7NPx79FF9XOJHz9YOM18X80sj1TLEo\n8KkkHbND+6TKCGgzm6wW/DYi7LFvDDD4HW+kx8tT4QKBgQD0FNo2g52UpMarfOA5\nBvOZzMqQlxhzT/L1iFTYEL2Sb1Pjrf3XoLGFH1YKuTy2YUnov3uf8lqdVzuIzTgv\n4yoaZ5MDImCTr+JHodtCe/prY3ISRnbhNis5/ysVOdLnp1NbarZheUu0MOVOs5fE\n/JPChN6Q/nAlFbzJVXgD20jHeQKBgQDDpS1KVE/RZuU3Z79Ydv0ndiciVW/tgCO8\nqDP7jFewHu0uliCbVDWh94o5A56ESAWT8sRnkEFKxLn/kU10W4FLZNSz8sXq95Q4\nb+JSilbcra4Lxss+3EThbEJb9q16cvvPEiCVhO2RLrq8NpS/OLWQtRc49YgVSpU9\nYKPwvFIrRQKBgQCovfHOVleO+AvRatepFUE8RvST2aGxtsgFL2dYqNombojUkuk3\nNYUEv5FAgKeUftYV7quM/IPg2vnxrc72bFojPw/HzvBtqd8KHr/yyrtpmqq2L7jo\nIgboZZxnZD6GoItkW/YSlUTdIiCltEtsiCGvDSTBoOXu/YQyvL/oCqXaIQKBgQCK\nS5pGLm71gJyKm6WgbQvp9xUWqfoiki+wzd1g9QWPE21pPunxoob+5LIqNyq4Kwj2\nWecHperhZUptI1Ly6zPsDWxlfzj0LOnzMvNykSNxfrvGy1EkMCPojNQjma1rHxhs\neU3bI0mjFLsfDB39RaLilX/C3ZzCICR6bHO2WghjWQKBgGx4YKN7JJutVXXfGg/5\nrtNgrMsmIpo/0tVkPqzlXr9xOW//wzJWQHo/QlBqM9MlOfRA1tdGfLYdlIcUIORj\nN9CunQZ9bamen2dd0i3UeHdrRM78u06JbWypnvlAipP+2wewVWJKxXaZINAFOY1M\nrqcU0sDImfIRHeHGhva2Hvr9\n-----END PRIVATE KEY-----\n",
+  "client_email": "teraaform-iam@platinum-linker-356408.iam.gserviceaccount.com",
+  "client_id": "105868467798261130584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teraaform-iam%40platinum-linker-356408.iam.gserviceaccount.com"
+}
